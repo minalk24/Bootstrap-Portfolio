@@ -62,3 +62,31 @@
     color:#dddddd;
     border-top: 8px solid #4aaaa5;
 }
+
+ .btnsubmit {
+    background-color:#4aaaa5;
+    color:white;
+} 
+
+#contactinputimage{
+    height: 147px;
+}
+
+.caption{
+    width: 100%;
+    bottom: 10px;
+    position: absolute;
+    background: #4aaaa5;
+}
+.caption h4 {
+    color: #fff;
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+    padding: 2px;
+}
+.card-margin{
+    margin-top:10px;
+}
