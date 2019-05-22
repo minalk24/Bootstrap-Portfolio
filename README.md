@@ -18,7 +18,7 @@ portfolio.html: 980px, 768px, 640px
 contact.html: 980px, 768px, 640px
 
 ## Click on the following link to deployed site
-[Bootstrap-Portfolio](https://minalk24.github.io/Bootstrap-Portfolio/)
+[Bootstrap-Portfolio](https://minalk24.github.io/Responsive-Portfolio/)
 
 <!--
  ## Images 
